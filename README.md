@@ -11,10 +11,16 @@
   https://user-images.githubusercontent.com/33498670/154785433-86e5e46d-b69c-4239-976e-d9c53ae5ebc2.mov
 </details>
 
-### Usage
+### Install
 ```Shell
 yarn add react-native-multiswitch-selector
 ```
+**peer dependency:**
+```Shell
+yarn add react-native-linear-gradient
+```
+
+### Usage
 ```js
 import { MultiSwitch } from 'react-native-multiswitch-selector';
 
