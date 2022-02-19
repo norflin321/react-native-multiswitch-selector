@@ -56,3 +56,6 @@ export const App = () => {
 | styleInactiveStateText   |                                         | TextStyle                      | {}                     | false    |
 
 [Examples from videos](https://github.com/norflin321/react-native-multiswitch-selector/blob/main/example/src/App.tsx)
+
+[![npm version](https://badge.fury.io/js/react-native-multiswitch-selector.svg)](https://badge.fury.io/js/react-native-multiswitch-selector)
+[![downloads](https://img.shields.io/npm/dm/react-native-multiswitch-selector.svg)](https://www.npmjs.com/package/react-native-multiswitch-selector)
