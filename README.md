@@ -1,4 +1,4 @@
-<img width="404" alt="Screenshot 2022-02-19 at 06 16 11" src="https://user-images.githubusercontent.com/33498670/154785524-1ae481dc-c03d-4219-a47e-11a4b0629044.png">
+<img height="700" alt="Screenshot 2022-02-19 at 06 16 11" src="https://user-images.githubusercontent.com/33498670/154785524-1ae481dc-c03d-4219-a47e-11a4b0629044.png">
 
 <details>
   <summary>Video 1</summary>
