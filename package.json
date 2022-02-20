@@ -1,6 +1,6 @@
 {
   "name": "react-native-multiswitch-selector",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "switch selector for react-native",
   "homepage": "https://github.com/norflin321/react-native-multiswitch-selector#readme",
   "main": "lib/index.js",
