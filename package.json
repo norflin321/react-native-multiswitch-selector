@@ -26,6 +26,15 @@
     "!xcshareddata",
     "!xcuserdata"
   ],
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-switch",
+    "toggle-switch",
+    "switch",
+    "ios",
+    "android"
+  ],
   "scripts": {
     "compile": "rm -rf lib && tsc -p .",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
