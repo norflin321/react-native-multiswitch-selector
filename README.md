@@ -1,3 +1,6 @@
+[![npm version](https://badge.fury.io/js/react-native-multiswitch-selector.svg)](https://badge.fury.io/js/react-native-multiswitch-selector)
+[![downloads](https://img.shields.io/npm/dm/react-native-multiswitch-selector.svg)](https://www.npmjs.com/package/react-native-multiswitch-selector)
+
 <img height="700" alt="Screenshot 2022-02-19 at 06 16 11" src="https://user-images.githubusercontent.com/33498670/154785524-1ae481dc-c03d-4219-a47e-11a4b0629044.png">
 
 <details>
@@ -10,6 +13,8 @@
 
   https://user-images.githubusercontent.com/33498670/154785433-86e5e46d-b69c-4239-976e-d9c53ae5ebc2.mov
 </details>
+
+[Examples from videos](https://github.com/norflin321/react-native-multiswitch-selector/blob/main/example/src/App.tsx)
 
 ### Install
 ```Shell
@@ -54,8 +59,3 @@ export const App = () => {
 | styleActiveStateGradient |                                         | [string, string]               | ['#81cf34', '#619c27'] | false    |
 | styleInactiveState       |                                         | ViewStyle                      | {}                     | false    |
 | styleInactiveStateText   |                                         | TextStyle                      | {}                     | false    |
-
-[Examples from videos](https://github.com/norflin321/react-native-multiswitch-selector/blob/main/example/src/App.tsx)
-
-[![npm version](https://badge.fury.io/js/react-native-multiswitch-selector.svg)](https://badge.fury.io/js/react-native-multiswitch-selector)
-[![downloads](https://img.shields.io/npm/dm/react-native-multiswitch-selector.svg)](https://www.npmjs.com/package/react-native-multiswitch-selector)
